@@ -1,5 +1,7 @@
 import React from 'react';
 import { ChevronDown, Zap, Network, Code, BarChart3, Workflow } from 'lucide-react';
+import { DesmondLogo } from './DesmondLogo';
+
 
 const WebsiteLayout = () => {
   return (
